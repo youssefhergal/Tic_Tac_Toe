@@ -33,7 +33,7 @@ void introduction() {
 
   std::cout << "Here's the 3 x 3 grid:\n\n";
 
-  std::cout << "\n\n" ;
+  std::cout << "\n\n\n" ;
 
   std::cout << "     |     |      \n";
   std::cout << "  1  |  2  |  3   \n";
